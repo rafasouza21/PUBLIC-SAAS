@@ -20,6 +20,7 @@ git checkout <nome da branch> -> consegue navegar entre as branchs
 
 git merge -> junta as alterações da branch secundaria com a branch principal ou a branch de sua escolha
 
+git branch -D -> Deleta Branch
 ## FLUXO DE TRABALHO
  1. criar o diretório do projeto
  2. iniciar o git dentro do diretório criado (git init.)
