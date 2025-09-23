@@ -14,6 +14,12 @@ git diff -> mostra tudo oq foi alterado dentro dos arquivos
 
 git reset -> joga o arquivo para uma o unstaged para nao ser comitado junto, basicamente separa os arquivos para diferentes commits
 
+git checkout -b -> cria uma nova branch
+
+git checkout <nome da branch> -> consegue navegar entre as branchs
+
+git merge -> junta as alterações da branch secundaria com a branch principal ou a branch de sua escolha
+
 ## FLUXO DE TRABALHO
  1. criar o diretório do projeto
  2. iniciar o git dentro do diretório criado (git init.)
