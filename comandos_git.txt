@@ -10,6 +10,8 @@ git commit -m "msg" -> faz commit do que estava para ser commitado
 
 git log -> mostra todas as ações commitadas
 
+git diff -> mostra tudo oq foi alterado dentro dos arquivos 
+
 ## FLUXO DE TRABALHO
  1. criar o diretório do projeto
  2. iniciar o git dentro do diretório criado (git init.)
