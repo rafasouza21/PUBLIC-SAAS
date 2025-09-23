@@ -7,3 +7,5 @@ git add nome_arquivo -> adiciona arquivo para
 ser commitado
 
 git commit -m "msg" -> faz commit do que estava para ser commitado
+
+git log -> mostra todas as ações commitadas
